@@ -1,3 +1,4 @@
+All Base Tasks should be done and work correctly
 # Shelter CSV Import and Report Starter
 
 Starter project for M4 practical task: Collections, Files, and Streams.
@@ -47,7 +48,7 @@ Use Maven wrapper (recommended):
   - oldest animal per species (excluding unknown ages)
   - needs-vet-input line in format name(species)
 
-## Stretch goals
+## Stretch goals (Not Done, no time till deadline - sorry)
 - Sort report sections alphabetically by species.
 - Use Optional for missing ages.
 - Add JSON summary export.
