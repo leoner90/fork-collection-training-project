@@ -1,4 +1,8 @@
-All Base Tasks should be done and work correctly
+#### Java version
+## This project was developed and tested with Java 21. It may not work correctly with newer Java versions such as Java 26 because of Lombok/compiler compatibility issues.
+## All Base Tasks should be done and work correctly
+
+
 # Shelter CSV Import and Report Starter
 
 Starter project for M4 practical task: Collections, Files, and Streams.
